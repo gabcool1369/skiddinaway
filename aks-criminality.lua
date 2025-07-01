@@ -1,4 +1,3 @@
-local infa = loadstring(game:HttpGet('https://raw.githubusercontent.com/bestuserpc/test/refs/heads/main/testing.lua'))()
 local repo = 'https://raw.githubusercontent.com/violin-suzutsuki/LinoriaLib/main/'
 
 Library = loadstring(game:HttpGet(repo .. 'Library.lua'))()
